@@ -28,7 +28,7 @@
     <div class="colt1"></div>
     <div class="colt2">
       <div class="coltt">
-        <p><img class="usabilityimg" src="@/assets/raul.png" /></p>
+        <p><img class="usabilityimg" src="@/assets/IMG_3147.jpg" /></p>
       </div>
       <p class="subtitle">
         My name is Pendle Smith, I am a junior at Syracuse University and I am currently pursuing a bachelors in
